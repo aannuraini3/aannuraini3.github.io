@@ -1,5 +1,5 @@
 # Site settings
-title: Aan Nuraini
+title: Darah Sunda
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://aanuraini3.github.io'
 baseurl: '/aannuraini3.github.io/'
@@ -12,7 +12,8 @@ author:
   twitter_username: aannur_aini
   facebook_username: Aan Nuraini
   github_username:  aannuraini3
-  linkedin_username:  aannuraini.blogspot.com
+  linkedin_username:https://www.linkedin.com/in/aan-nuraini-80a672118?trk=nav_responsive_tab_profile_pic  
+  blog: aannuraini.blogspot.com
 
 defaults:
   -
