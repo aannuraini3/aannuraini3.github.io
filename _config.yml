@@ -12,7 +12,13 @@ author:
   twitter_username: aannur_aini
   facebook_username: Aan Nuraini
   github_username:  aannuraini3
-  linkedin_username:https://www.linkedin.com/in/aan-nuraini-80a672118?trk=nav_responsive_tab_profile_pic  
+  linkedin_username:https://www.linkedin.com/in/aan-nuraini-80a672118?trk=nav_responsive_tab_profile_pic
+  
+  # Site owner 
+  owner:  
+  name: Aan Nuraini   
+  avatar: bio-photo.jpg   
+  bio: "Aan Nuraini. Gadis keturunan sunda yang lahir di tanah melayu Indragiri Hulu." 
 
 defaults:
   -
